@@ -1,13 +1,13 @@
 # 🏛️ U.S. Census Population Analysis (2010-2015)
 ## 👨‍💻 By Adejoro Raymond Olaotan
 
-> 📊 A comprehensive exploratory data analysis of U.S. Census population data (2010–2015) using Python and the PPDAC framework — uncovering demographic trends, regional structures, and state-level population insights.
+> 📊 A comprehensive exploratory data analysis of U.S. Census population data (2010-2015) using Python and the PPDAC framework uncovering demographic trends, regional structures, and state-level population insights.
 
 ---
 
 ## 📘 Project Overview
 This project analyzes population distribution and growth patterns across the United States from 2010 to 2015 using the official **U.S. Census Bureau dataset**.  
-By applying the **PPDAC methodology** — *Problem, Plan, Data, Analysis, and Conclusion* — the study demonstrates a systematic approach to demographic data analysis.
+By applying the **PPDAC methodology** which are *Problem, Plan, Data, Analysis, and Conclusion*. The study demonstrates a systematic approach to demographic data analysis.
 
 ### 🎯 Objectives
 - Identify which U.S. state has the most counties.  
@@ -64,21 +64,9 @@ By applying the **PPDAC methodology** — *Problem, Plan, Data, Analysis, and Co
 | 🌆 **Most Populous States** | Population totals based on each state’s largest counties. |
 | 🌎 **Regional Distribution** | Comparison of total population per U.S. Census region (2015). |
 
----
-
-## 🚀 How to Run This Project
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Enerlytic-Ray/us-census-population-analysis.git
-   cd us-census-population-analysis
-### Install required dependencies:
-   pip install -r requirements.txt
-### Launch the US Census Data Analysis notebook:
-   Launch the US Census Data Analysis notebook:
-
    ---
 
-## 🧠 Steps Taken
+## 🧠 Project Structure
 
 Data cleaning & transformation (pandas)
 
@@ -98,8 +86,6 @@ Electrical Engineer | Data Analyst | ML Enthusiast
 
 📧 [raydey04@gmail.com](mailto:raydey04@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/enerlytic-ray) | [GitHub](https://github.com/Enerlytic-Ray)
-
----
 
 "**Data, when explored with curiosity and structure, reveals stories that inspire better decisions.”
 -Adejoro Raymond Olaotan**"

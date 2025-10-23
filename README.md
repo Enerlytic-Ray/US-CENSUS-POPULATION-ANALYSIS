@@ -72,8 +72,8 @@ By applying the **PPDAC methodology** — *Problem, Plan, Data, Analysis, and Co
    cd us-census-population-analysis
 ### Install required dependencies:
    pip install -r requirements.txt
-### Launch the analysis notebook:
-   Launch the analysis notebook:
+### Launch the US Census Data Analysis notebook:
+   Launch the US Census Data Analysis notebook:
 
    ---
 

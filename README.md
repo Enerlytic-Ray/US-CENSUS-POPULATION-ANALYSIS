@@ -1,4 +1,5 @@
-# 🏛️ U.S. Census Population Analysis (2010–2015)
+# 🏛️ U.S. Census Population Analysis (2010-2015)
+## 👨‍💻 By Adejoro Raymond Olaotan
 
 > 📊 A comprehensive exploratory data analysis of U.S. Census population data (2010–2015) using Python and the PPDAC framework — uncovering demographic trends, regional structures, and state-level population insights.
 
@@ -91,15 +92,13 @@ Structured research approach (PPDAC)
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 By
 
-Adejoro Raymond Olaotan
-Electrical Engineer | Data Analyst | ML Enthusiast
+-Adejoro Raymond Olaotan
+-Electrical Engineer | Data Analyst | ML Enthusiast
 
-📧 raydey04@gmail.com
-
-🌐 LinkedIn
- • GitHub
+📧 [raydey04@gmail.com](mailto:raydey04@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/enerlytic-ray) | [GitHub](https://github.com/Enerlytic-Ray)
 
 ---
 

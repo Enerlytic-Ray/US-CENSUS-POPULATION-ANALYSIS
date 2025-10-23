@@ -93,9 +93,8 @@ Structured research approach (PPDAC)
 ---
 
 ## 👨‍💻 By
-
--Adejoro Raymond Olaotan
--Electrical Engineer | Data Analyst | ML Enthusiast
+Adejoro Raymond Olaotan
+Electrical Engineer | Data Analyst | ML Enthusiast
 
 📧 [raydey04@gmail.com](mailto:raydey04@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/enerlytic-ray) | [GitHub](https://github.com/Enerlytic-Ray)

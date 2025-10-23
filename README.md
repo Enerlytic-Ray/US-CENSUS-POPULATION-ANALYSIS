@@ -20,7 +20,7 @@ By applying the **PPDAC methodology** — *Problem, Plan, Data, Analysis, and Co
 ## 🗂️ Dataset Information
 | Attribute | Details |
 |------------|----------|
-| **Dataset Name** | `co-est2015-alldata.csv` |
+| **Dataset Name** | `US Census Data 2015.csv` |
 | **Source** | U.S. Census Bureau |
 | **Coverage** | Annual population estimates (2010–2015) for all states and counties |
 | **Reference Document** | `Python Project_Census.pdf` |

@@ -77,7 +77,7 @@ By applying the **PPDAC methodology** — *Problem, Plan, Data, Analysis, and Co
 
    ---
 
-## 🧠 Skills Demonstrated
+## 🧠 Steps Taken
 
 Data cleaning & transformation (pandas)
 
